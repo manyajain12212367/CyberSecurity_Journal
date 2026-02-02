@@ -18,7 +18,7 @@ This journal reflects that reset.
 
 ## 🚀 What This Journal Covers
 
-* 📘 **Fundamentals** — starting with **ISC2 Certified in Cybersecurity (CC)**
+* 📘 **Fundamentals** — starting with **CompTIA Security+ Objectives**
 * 🧠 **Defensive Security** — malware analysis, memory forensics, DFIR concepts
 * 🛠️ **Tools & Techniques** — hands-on notes from tools I explore and revisit
 * 🔍 **Case-style Write-ups** — how I think, analyze, fail, learn, and improve
@@ -32,6 +32,7 @@ This journal reflects that reset.
 * Build intuition, not just notes
 * Understand *why* something works, not just *how*
 * Document progress — including confusion, mistakes, and breakthroughs
+* Lets Not think "I can not do it", but rather "How can i do it?"
 
 ---
 
